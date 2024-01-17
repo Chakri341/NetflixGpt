@@ -59,7 +59,7 @@ Main Movie
 -Resused Movie List component to make movie suggestion container
 -Memoization 
 -Secure ur api keys
--mMade our Site Responsive
+-Made our Site Responsive
 
 
 
